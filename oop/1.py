@@ -27,3 +27,13 @@ print(yueyue.name)
 print(yueyue.age)
 #需要注意成员函数的调用没有传入参数
 yueyue.dohomework()
+
+class Math():
+    sourcce = 33
+    kechenghao = 19293
+
+tt = Math()
+print(Math.kechenghao)
+print(Math.sourcce)
+
+
