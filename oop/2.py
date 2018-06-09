@@ -23,7 +23,7 @@
 # t = Test()
 # t.prt()
 
-'''class Employee:
+'''class Emp loyee:
     '所有员工的基类'
     empCount = 0
 
