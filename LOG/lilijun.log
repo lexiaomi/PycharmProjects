@@ -1,0 +1,5 @@
+2018-06-20 22:28:18,084=====DEBUG+++++this is debug log
+2018-06-20 22:28:18,084=====INFO+++++this is info log
+2018-06-20 22:28:18,084=====WARNING+++++this is warning log
+2018-06-20 22:28:18,084=====ERROR+++++this is error log
+2018-06-20 22:28:18,085=====CRITICAL+++++this is critical log

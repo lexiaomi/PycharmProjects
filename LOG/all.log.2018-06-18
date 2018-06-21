@@ -1,0 +1,5 @@
+2018-06-18 17:49:38,187 - DEBUG - debug message
+2018-06-18 17:49:38,188 - INFO - info message
+2018-06-18 17:49:38,188 - WARNING - warning message
+2018-06-18 17:49:38,188 - ERROR - error message
+2018-06-18 17:49:38,188 - CRITICAL - critical message
